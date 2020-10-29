@@ -14,21 +14,20 @@ VMware Workstation Pro en Player draaien op de meeste 64-bits Windows- of Linux-
 
 ## Microsoft Azure Active Directory Enrollment
 
-![tt](.//pictures/pure_azure_active_directory_00.png
-
-
-![tt](./pictures/pure_azure_active_directory_01.png
-![tt](./pictures/pure_azure_active_directory_02.png
-![tt](./pictures/pure_azure_active_directory_03.png
-![tt](./pictures/pure_azure_active_directory_04.png
-![tt](./pictures/pure_azure_active_directory_05.png
-![tt](./pictures/pure_azure_active_directory_06.png
-![tt](./pictures/pure_azure_active_directory_07.png
-![tt](./pictures/pure_azure_active_directory_08.png
-![tt](./pictures/pure_azure_active_directory_09.png
-![tt](./pictures/pure_azure_active_directory_10.png
-![tt](./pictures/pure_azure_active_directory_11.png
-![tt](./pictures/pure_azure_active_directory_12.png
+![tt](./pictures/pure_azure_active_directory_00.png)
+![tt](./pictures/pure_azure_active_directory_01.png)
+![tt](./pictures/pure_azure_active_directory_02.png)
+![tt](./pictures/pure_azure_active_directory_03.png)
+![tt](./pictures/pure_azure_active_directory_04.png)
+![tt](./pictures/pure_azure_active_directory_05.png)
+![tt](./pictures/pure_azure_active_directory_06.png)
+![tt](./pictures/pure_azure_active_directory_07.png)
+![tt](./pictures/pure_azure_active_directory_08.png)
+![tt](./pictures/pure_azure_active_directory_09.png)
+![tt](./pictures/pure_azure_active_directory_10.png)
+![tt](./pictures/pure_azure_active_directory_11.png)
+![tt](./pictures/pure_azure_active_directory_12.png)
+tt
 
 [windows-10-deployment-vmware-workspace-one-](https://techzone.vmware.com/planning-your-windows-10-deployment-vmware-workspace-one-operational-tutorial)
 
