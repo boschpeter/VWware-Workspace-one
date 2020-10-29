@@ -14,7 +14,8 @@ VMware Workstation Pro en Player draaien op de meeste 64-bits Windows- of Linux-
 
 ## Microsoft Azure Active Directory Enrollment
 
-![tt](..//pictures/pure_azure_active_directory_00.png
+![tt](.//pictures/pure_azure_active_directory_00.png
+
 
 ![tt](./pictures/pure_azure_active_directory_01.png
 ![tt](./pictures/pure_azure_active_directory_02.png
