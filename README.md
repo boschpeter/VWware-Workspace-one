@@ -39,6 +39,14 @@ Transformeer traditionele VDI en gepubliceerde apps radicaal met geïntegreerde 
 | Combineer intrinsieke beveiliging voor apparaten, gebruikers en apps om het inschakelen van Zero Trust-toegangscontrole te vereenvoudigen. Toonaangevend modern beheer van alle apparaten en toegangsbeheer voor alle applicaties maken toegangsmodellen zonder vertrouwen werkelijkheid. |
 
 
+## Azure AD Integration Enrollment
+Through integration with Microsoft Azure Active Directory, Windows devices automatically enroll into Workspace ONE UEM with minimal end-user interaction. Azure AD integration enrollment simplifies enrollment for both end users and admins. Azure AD integration enrollment supports three different enrollment flows: Join Azure AD, Out of Box Experience enrollment, and Office 365 enrollment. All methods require configuring Azure AD integration with Workspace ONE UEM.
+Before you can enroll your devices using Azure AD integration, you must configure Workspace ONE UEM and Azure AD.
+
+## Inschrijving voor Azure AD-integratie
+Door integratie met Microsoft Azure Active Directory worden Windows-apparaten automatisch aangemeld bij Workspace ONE UEM met minimale interactie met de eindgebruiker. Inschrijving voor Azure AD-integratie vereenvoudigt de inschrijving voor zowel eindgebruikers als beheerders. Inschrijving voor Azure AD-integratie ondersteunt drie verschillende inschrijvingsstromen: deelnemen aan Azure AD, Out of Box Experience-inschrijving en Office 365-inschrijving. Voor alle methoden is configuratie van Azure AD-integratie met Workspace ONE UEM vereist.[Voordat u uw apparaten kunt inschrijven met behulp van Azure AD-integratie, moet u Workspace ONE UEM en Azure AD configureren](https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/Windows_Desktop_Device_Management/GUID-AWT-ENROLL-OVERVIEWWD.html)
+
+
 ## Looking for an Alternative to AirWatch? 
 
 [hexnode](https://www.hexnode.com/mobile-device-management/alternative-to-airwatch/?utm_source=Google&utm_medium=PPC&utm_campaign=Airwatchalternative&utm_term=Airwatchalternative&utm_content=Airwatchalternative&utm_keyword=436588861333&utm_device=&utm_adposition=&utm_matchtype=&utm_network=&utm_medium=googleads&utm_campaign=872470709&utm_source=43662563493&utm_term=%2Bairwatch&hsa_acc=6098326672&hsa_cam=9514878649&hsa_grp=107089103654&hsa_ad=461951423216&hsa_src=g&hsa_tgt=kwd-23731036682&hsa_kw=%2Bairwatch&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAjKqABhDLARIsABbJrGkVCAZh393AdJ_w15281p9ODjKG2DB4bCuAJqgnR45NPfePw39K0M4aAsGgEALw_wcB#/secure-container)
