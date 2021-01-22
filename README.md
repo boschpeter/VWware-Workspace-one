@@ -39,6 +39,10 @@ Transformeer traditionele VDI en gepubliceerde apps radicaal met geïntegreerde 
 | Combineer intrinsieke beveiliging voor apparaten, gebruikers en apps om het inschakelen van Zero Trust-toegangscontrole te vereenvoudigen. Toonaangevend modern beheer van alle apparaten en toegangsbeheer voor alle applicaties maken toegangsmodellen zonder vertrouwen werkelijkheid. |
 
 
+## Looking for an Alternative to AirWatch? 
+
+[hexnode](https://www.hexnode.com/mobile-device-management/alternative-to-airwatch/?utm_source=Google&utm_medium=PPC&utm_campaign=Airwatchalternative&utm_term=Airwatchalternative&utm_content=Airwatchalternative&utm_keyword=436588861333&utm_device=&utm_adposition=&utm_matchtype=&utm_network=&utm_medium=googleads&utm_campaign=872470709&utm_source=43662563493&utm_term=%2Bairwatch&hsa_acc=6098326672&hsa_cam=9514878649&hsa_grp=107089103654&hsa_ad=461951423216&hsa_src=g&hsa_tgt=kwd-23731036682&hsa_kw=%2Bairwatch&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAjKqABhDLARIsABbJrGkVCAZh393AdJ_w15281p9ODjKG2DB4bCuAJqgnR45NPfePw39K0M4aAsGgEALw_wcB#/secure-container)
+
 ## Microsoft Azure Active Directory Enrollment
 
 ![tt](./pictures/pure_azure_active_directory_00.png)
