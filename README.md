@@ -10,7 +10,31 @@ Terwijl VMWare Cloud een traditioneel IaaS-model biedt. Terwijl Azure een veel b
 
 VMware Workstation Pro en Player draaien op de meeste 64-bits Windows- of Linux-hostbesturingssystemen: Windows 10; Windows Server 2019; Windows Server 2016 ...
 
+Wat Workspace ONE levert
 
+| Werknemerservaringen betrekken, van onboarding tot offboarding |
+| ------------------------------------------------- ---------------- |
+| Stelt ondernemingen in staat om de betrokkenheid en productiviteit van werknemers te maximaliseren door werknemers een persoonlijke ervaring en Day One-toegang tot elke app op elk apparaat te bieden.
+
+| Uniform eindpuntbeheer |
+| ------------------------------------------------- ---------------- |
+| Consolideer managementsilo's op mobiele apparaten, desktops (inclusief Windows 10 en macOS), robuuste apparaten en "dingen". Verlaag de kosten en verbeter de beveiliging met real-time, draadloos modern beheer voor alle gebruiksscenario's (inclusief BYO).
+
+| Intelligentie in de hele digitale werkruimte |
+| ------------------------------------------------- ---------------- |
+| Verzamel en correleer gegevens in uw gehele digitale werkruimte om inzichten, analyses en krachtige automatisering van veelvoorkomende IT-taken te stimuleren die de gebruikerservaring verbeteren, de beveiliging versterken en de IT-kosten verlagen. |
+
+| Virtuele desktops en apps |
+| ------------------------------------------------- ---------------- |
+Transformeer traditionele VDI en gepubliceerde apps radicaal met geïntegreerde VMware Horizon en VMware Horizon Cloud, die ongekende eenvoud, flexibiliteit, snelheid en schaal bieden - en dat alles tegen lagere kosten. Een gemeenschappelijk besturingsvlak voor de "multi-cloud" maakt een architectuur en kostenmodel mogelijk om aan uw eisen te voldoen
+
+| Veilige en eenvoudige toegang tot applicaties |
+| ------------------------------------------------- ---------------- |
+| Verhoog de productiviteit en verras werknemers met veilige, wachtwoordvrije eenmalige aanmelding (SSO) voor SaaS-, mobiele, Windows-, virtuele en webapps op elke telefoon, tablet of laptop - allemaal via één app-catalogus. |
+
+| Vereenvoudig Zero Trust Security |
+| ------------------------------------------------- ---------------- |
+| Combineer intrinsieke beveiliging voor apparaten, gebruikers en apps om het inschakelen van Zero Trust-toegangscontrole te vereenvoudigen. Toonaangevend modern beheer van alle apparaten en toegangsbeheer voor alle applicaties maken toegangsmodellen zonder vertrouwen werkelijkheid. |
 
 
 ## Microsoft Azure Active Directory Enrollment
