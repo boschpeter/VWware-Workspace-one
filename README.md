@@ -5,7 +5,7 @@
 [https://www.vmware.com/products/workspace-one.html](Workspace ONE is a new VMware offering designed to directly address challenges faced by organizations in the consumerization of IT.)  Workspace ONE is the simple and secure enterprise platform that delivers and manages any app on any device by integrating identity, application, and enterprise mobility management.
 
 
-Workspace ONE is een nieuw VMware-aanbod dat is ontworpen om de uitdagingen waarmee organisaties worden geconfronteerd bij de consumentisering van IT rechtstreeks aan te pakken. Workspace ONE is het eenvoudige en veilige bedrijfsplatform dat elke app op elk apparaat levert en beheert door identiteits-, applicatie- en bedrijfsmobiliteitsbeheer te integreren.
+[Workspace ONE is een nieuw VMware-aanbod](https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/Windows_Desktop_Device_Management/GUID-AWT-ENROLL-OVERVIEWWD.html) dat is ontworpen om de uitdagingen waarmee organisaties worden geconfronteerd bij de consumentisering van IT rechtstreeks aan te pakken. Workspace ONE is het eenvoudige en veilige bedrijfsplatform dat elke app op elk apparaat levert en beheert door identiteits-, applicatie- en bedrijfsmobiliteitsbeheer te integreren.
 
 
 Terwijl VMWare Cloud een traditioneel IaaS-model biedt. Terwijl Azure een veel breder scala aan opties biedt. Azure heeft ook een groot aantal diensten te bieden, binnen een redelijke prijsklasse. De VM Ware-computeromgeving wordt uitgevoerd in AWS-datacenters en Microsoft gebruikt zijn eigen infrastructuur
